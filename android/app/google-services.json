@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256323952799",
+    "project_id": "stock-plus-app",
+    "storage_bucket": "stock-plus-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256323952799:android:056ca2d0b3bebb6db582aa",
+        "android_client_info": {
+          "package_name": "com.example.stock_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEDo8Oo6Pf-cue-_UfTMkP4Gy0ZsttdO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
